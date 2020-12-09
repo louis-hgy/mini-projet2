@@ -1,0 +1,29 @@
+body{
+    background-color: coral;
+}
+div{
+    background-color: white;
+}
+h3{
+    color: rgb(7, 148, 14);
+    text-align: right;
+    font-size: x-large;
+    text-decoration: underline;
+}
+h1{
+    color: cadetblue;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+h2{
+    color: cadetblue;
+    text-align: center;
+    font-size: large;
+}
+h4{
+    color: darksalmon;
+    text-align: right;
+    font-size: small;
+}
